@@ -1,0 +1,16 @@
+{
+  "tareas": [
+    {
+      "id": "e87c",
+      "nombre": "Sacar al perro",
+      "prioridad": "alta",
+      "finalizada": false
+    },
+    {
+      "id": "5193",
+      "nombre": "4646",
+      "prioridad": "baja",
+      "finalizada": false
+    }
+  ]
+}
